@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Explorador de archivos</string>
+    <string name="action_nombre">Francisco Javier Caracuel Beltrán</string>
+    
+    <string name="puntos">..</string>
+    
+    <string name="go_to">Ir a: </string>
+    
+    <string name="iv_carpeta_descripcion">Carpeta</string>
+	<string name="iv_archivo_descripcion">Archivo</string>
+	
+	<string name="toast_no_permisos_carpeta">No tiene permisos para ver esta carpeta</string>
+	<string name="toast_no_extension_encontrada">No se puede abrir este archivo</string>
+    
+</resources>
